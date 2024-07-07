@@ -1,0 +1,29 @@
+{
+  "name": "streamflow",
+  "version": "1.0.0",
+  "description": "site web em node para reprodução de série, animações e filmes de diversos gêneros.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Luhcyy/StreamFlow-Project.git"
+  },
+  "keywords": [
+    "streaming",
+    "vide",
+    "movie",
+    "filme",
+    "series",
+    "série",
+    "anime",
+    "animation"
+  ],
+  "author": "Luhcy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Luhcyy/StreamFlow-Project/issues"
+  },
+  "homepage": "https://github.com/Luhcyy/StreamFlow-Project#readme"
+}
